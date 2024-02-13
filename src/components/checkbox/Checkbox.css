@@ -1,0 +1,10 @@
+.threeLine,
+.fourLine,
+.fiveLine {
+  display: flex;
+  gap: 15px;
+}
+
+.completeLines {
+  margin: 25px;
+}
